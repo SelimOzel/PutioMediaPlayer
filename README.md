@@ -7,4 +7,4 @@ It depends on `putiopy` , `PySimpleGUI`  and `webbrowser` libraries. I wrote and
 
 Feel free to copy and do whatever you want to with it.
 
-![Screenshot](/screenshot.png)
+![Screenshot](/ScreenShot.png)
